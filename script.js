@@ -19,6 +19,5 @@ let clock = () => {
   document.getElementById("clock").innerText = time;
   setTimeout(clock, 1000);
 };
-
-clock();
+console.log(clock());
 // Digtal Clock App that gets the time of your location , created by Hussein M
