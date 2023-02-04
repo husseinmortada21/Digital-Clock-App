@@ -21,3 +21,4 @@ let clock = () => {
 };
 
 clock();
+// Digtal Clock App that gets the time of your location , created by Hussein M
